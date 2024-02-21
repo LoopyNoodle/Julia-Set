@@ -1,1 +1,1 @@
-# julia-set
+# Julia Set
